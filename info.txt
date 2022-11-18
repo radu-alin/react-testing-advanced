@@ -1,0 +1,7 @@
+Info
+
+tutorial: https://www.udemy.com/course/advanced-react-testing/
+
+github:  https://github.com/radu-alin/react-testing-advanced.git
+
+app: music venue app
